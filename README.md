@@ -1,4 +1,4 @@
-# Machine Learning Project 3: Electricity Consumption Forecasting
+# Electricity Consumption Forecasting
 
 This project implements time series forecasting for New York City's electricity consumption using Facebook Prophet. The model can predict consumption based on daily, monthly, and yearly averages.
 
